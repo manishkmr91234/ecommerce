@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs, ExpresJs, MongoDb, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://portfoliomka.netlify.app/](https://manishkmrportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manishkmrportfolio.netlify.app/](https://manishkmrportfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
